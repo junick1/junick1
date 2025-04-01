@@ -15,6 +15,8 @@
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjunnick">
 </a>
 <br>
+[![BOJ](https://bojstat.vulcan.site/sk14cj)](https://www.acmicpc.net/user/sk14cj)
+<br>
 <a href="https://atcoder.jp/users/minjunnick" target="_blank">
 	<img src="https://atcoder.junah.dev/v2/generate_badge?name=minjunnick">
 </a>
