@@ -3,7 +3,7 @@
 <ul>
 	<li>🇰🇷 쮸닊</li>
 	<li>🇬🇧 _junick</li>
-	<li>🎂 15. 10. 2010</li>
+	<li>🎂 15. Oct. 2010</li>
 </ul>
 <p>
 Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actually do.</i></code></sub><br>
@@ -28,17 +28,41 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 
 <h3>Contests</h3>
 <ul>
+	<!-- KOI -->
 	<li>🥉 Bronze medal on KOI 2023, 2024 <sub>Middle School Division</sub> 1st round</li>
 	<li>✨ Participation award on KOI 2023 <sub>Middle School Divison</sub> 2nd round</li>
-	<li>🥈 Silver medal on KOI 2024 <sub>Middle School Division</sub> 2nd round; <b>26th place nationwide</b></li><br>
+	<li>🥈 Silver medal on KOI 2024 <sub>Middle School Division</sub> 2nd round; <b>26th place nationwide</b></li>
+	<br>
+	<!-- USACO -->
+	<li>🥇 Qualified for <b>USACO Gold</b>; passed Bronze at 2024, Silver at 2025</li>
+	<br>
+	<!-- NYPC -->
+	<li>✨ Special prize on NYPC<sub>15-19</sub> 2024</li>
+	<br>
+	<!-- ACSL -->
+	<li>🥉 Bronze medal on ACSL 2023 Finals<sub>Junior Division</sub></li>
+	<li>🥈 Silver medal on ACSL 2024 Finals<sub>Junior Division</sub></li>
+	<br>
+	<!-- CCC -->
+	<li>✅ Scored 75/75 on Canadian Computing Competition 2024<sub>Junior Division</sub></li>
+	<li>✅ Scored 75/75 on Canadian Computing Competition 2025<sub>Junior Division</sub></li>
+	<li>☑️ Scored 50/75 on Canadian Computing Competition 2025<sub>Senior Division</sub></li>
+	<br>
+	<!-- Korea Information Technology Promotion Agency -->
  	<li>🥇 Gold medal on 2025 4th Youth IT Competition - Algorithm Section <sub>Middle School Divison</sub>; <b>2nd place nationwide</b></li>
+	<br>
+	<!-- ICT AWARD KOREA -->
+	<li>🥉 Bronze medal on ICT Award Korea 2023 Algorithm Programming<sub>Middle School Division</sub></li>
+	<li>🥈 Silver medal on ICT Award Korea 2024 Algorithm Programming<sub>Middle School Division</sub>; <b>3rd place nationwide</b></li>
+	<br>
+	<!-- GEC-Cup -->
+	<li>3️⃣ 3rd place on GEC-Cup 2024</li><br>
 </ul>
 
 <h3>Contribution</h3>
 <ul>
-	<li>SUAPC 2024 Summer - Problem Setter</li>
-	<br>
-	<li>PNUPC 2025 - Problem Tester</li>
+	<li>✍️ Problem Writer in SUAPC 2024 Summer</li><br>
+	<li>🧑‍💻 Problem Tester in PNUPC 2025</li>
 </ul>
 more incoming...
 
@@ -47,7 +71,7 @@ more incoming...
 <table align="center">
 	<tr>
 		<th>💪 Main Language</th>
-		<th>📚 Also Used </th>
+		<th>📚 Also Familiar With... </th>
 	</tr>
 	<tr>
 		<td align="center">
