@@ -14,6 +14,10 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 	<a href="https://solved.ac/minjunnick" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minjunnick"></a>
 </p>
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=junick1&show_icons=true&theme=dracula">
+</p>
+
 <h2>🤔 Problem Solving</h2>
 <h3>Online Judges</h3>
 <ul>
@@ -89,3 +93,5 @@ more incoming...
 		</td>
 	</tr>
 </table>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junick1&layout=compact&theme=dracula"/></p>
