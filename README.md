@@ -21,14 +21,19 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 <h2>🤔 Problem Solving</h2>
 <h3>Online Judges</h3>
 <ul>
-	<li>💻 Baekjoon Online Judge - <a href="https://solved.ac/profile/minjunnick">@minjunnick</a></li>
-	<li>📊 CodeForces - <a href="https://codeforces.com/profile/_junick">@_junick</a></li>
-	<li>📧 AtCoder - <a href="https://atcoder.jp/users/junick_">@junick_</a></li>
+	<li>
+		💻 Baekjoon Online Judge - <a href="https://solved.ac/profile/minjunnick">@minjunnick</a>
+  		<p align="center"><a href="https://solved.ac/profile/minjunnick" target="_blank"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=minjunnick"></a></p>
+	</li>
+	<li>
+		📊 Codeforces - <a href="https://codeforces.com/profile/_junick">@_junick</a>
+		<p align="center"><a href="https://codeforces.com/profile/_junick"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=_junick"></a></p>
+	</li>
+	<li>
+		📧 AtCoder - <a href="https://atcoder.jp/users/junick_">@junick_</a>
+		<p align="center"><a href="https://atcoder.jp/users/junick_" target="_blank"><img src="https://atcoder.junah.dev/v2/generate_badge?name=junick_"></a></p>
+	</li>
 </ul>
-<p align="center">
-	<a href="https://solved.ac/profile/minjunnick" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjunnick"></a> &nbsp
-	<a href="https://atcoder.jp/users/junick_" target="_blank"><img src="https://atcoder.junah.dev/v2/generate_badge?name=junick_"></a>
-</p>
 
 <h3>Contests</h3>
 <ul>
@@ -65,8 +70,10 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 
 <h3>Contribution</h3>
 <ul>
-	<li>✍️ Problem Writer in SUAPC 2024 Summer</li><br>
+	<li>✍️ Problem Writer in SUAPC 2024 Summer</li>
+	<br>
 	<li>🧑‍💻 Problem Tester in PNUPC 2025</li>
+	<li>🧑‍💻 Problem Tester in KHSPC 2025</li>
 </ul>
 more incoming...
 
