@@ -18,6 +18,14 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 	<img src="https://github-readme-stats.vercel.app/api?username=junick1&show_icons=true&theme=dracula">
 </p>
 
+<h2>🔧 Development</h2>
+<h3>🏆 Achievements</h3>
+<ul>
+ <li>📝 LG AI 청소년 캠프 2기 수료</li>
+ <li>🔎 LG AI 청소년 캠프 2기 탐색상 수상</li>
+ <li>⭐️ LG AI 청소년 캠프 2기 인재상 수상 🇺🇸</li>
+</ul>
+
 <h2>🤔 Problem Solving</h2>
 <h3>Online Judges</h3>
 <ul>
