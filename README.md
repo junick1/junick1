@@ -79,11 +79,11 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 <h3>Contribution</h3>
 <ul>
 	<li>✍️ Problem Writer in SUAPC 2024 Summer</li>
+	<li>✍️ Problem Writer in <b>UCPC 2025</b><sub>Preliminary Round</sub></li>
 	<br>
 	<li>🧑‍💻 Problem Tester in PNUPC 2025</li>
 	<li>🧑‍💻 Problem Tester in KHSPC 2025</li>
 </ul>
-more incoming...
 
 <h2>🛠️ Programming Language</h2>
 
