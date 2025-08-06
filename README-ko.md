@@ -50,7 +50,7 @@
 	<li>🥈 KOI 2024 중등부 2차 은상; <b>전국 26위</b></li>
 	<br>
 	<!-- USACO -->
-	<li>🥇 <b>USACO Gold</b>; Bronze 통과 2024년, Silver 통과 2025년</li>
+	<li>🥇 <b>USACO Gold</b>; Bronze 통과 2024년 2월, Silver 통과 2025년 2월</li>
 	<br>
 	<!-- NYPC -->
 	<li>✨ NYPC<sub>15-19</sub> 2024 특별상</li>
@@ -60,9 +60,9 @@
 	<li>🥈 ACSL 2024 Finals <sub>Junior Division</sub> 은상</li>
 	<br>
 	<!-- CCC -->
-	<li>✅ Scored 75/75 on Canadian Computing Competition 2024<sub>Junior Division</sub></li>
-	<li>✅ Scored 75/75 on Canadian Computing Competition 2025<sub>Junior Division</sub></li>
-	<li>☑️ Scored 50/75 on Canadian Computing Competition 2025<sub>Senior Division</sub></li>
+	<li>✅ Canadian Computing Competition 2024<sub>Junior Division</sub> 75/75</li>
+	<li>✅ Canadian Computing Competition 2025<sub>Junior Division</sub> 75/75</li>
+	<li>☑️ Canadian Computing Competition 2025<sub>Senior Division</sub> 50/75</li>
 	<br>
 	<!-- Korea Information Technology Promotion Agency -->
  	<li>🥇 제4회 청소년 IT경시대회 (2025) 중등부 금상; <b>전국 2위</b></li>
