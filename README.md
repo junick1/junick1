@@ -1,3 +1,5 @@
+📄 This README is also available in [한국어 🇰🇷](README-ko.md)
+
 <h1>👋 Hi, I'm _junick.</h1>
 
 <ul>
