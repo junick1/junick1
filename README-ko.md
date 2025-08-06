@@ -1,3 +1,5 @@
+📄 이 README는 [English 🇬🇧](README.md) 로도 제공됩니다.
+
 <h1>👋 안녕하세요, 쮸닊입니다.</h1>
 
 <ul>
