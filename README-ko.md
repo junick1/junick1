@@ -66,8 +66,11 @@
 	<li>✅ Canadian Computing Competition 2025<sub>Junior Division</sub> 75/75</li>
 	<li>☑️ Canadian Computing Competition 2025<sub>Senior Division</sub> 50/75</li>
 	<br>
-	<!-- Korea Information Technology Promotion Agency -->
+	<!-- 한국정보기술진흥원 -->
  	<li>🥇 제4회 청소년 IT경시대회 (2025) 중등부 금상; <b>전국 2위</b></li>
+	<br>
+	<!-- 디미고 -->
+	<li>🥈 2025 제21회 전국 중학생IT 올림피아드 은상</li>
 	<br>
 	<!-- ICT AWARD KOREA -->
 	<li>🥉 ICT 어워드 코리아 2023 중등부 동상</li>
