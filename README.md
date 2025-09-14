@@ -70,6 +70,9 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 	<!-- Korea Information Technology Promotion Agency -->
  	<li>🥇 Gold medal on 2025 4th Youth IT Competition - Algorithm Section <sub>Middle School Divison</sub>; <b>2nd place nationwide</b></li>
 	<br>
+	<!-- KOREA DIGITAL MEDIA HIGH SCHOOL -->
+	<li>🥈 Silver medal on 2025 21st National Middle School IT Olympiad</li>
+	<br>
 	<!-- ICT AWARD KOREA -->
 	<li>🥉 Bronze medal on ICT Award Korea 2023 Algorithm Programming<sub>Middle School Division</sub></li>
 	<li>🥈 Silver medal on ICT Award Korea 2024 Algorithm Programming<sub>Middle School Division</sub>; <b>3rd place nationwide</b></li>
