@@ -59,8 +59,8 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 	<li>✨ Special prize on NYPC<sub>15-19</sub> 2024</li>
 	<br>
 	<!-- ACSL -->
-	<li>🥉 Bronze medal on ACSL 2023 Finals<sub>Junior Division</sub></li>
-	<li>🥈 Silver medal on ACSL 2024 Finals<sub>Junior Division</sub></li>
+	<li>🥈 Silver medal on ACSL 2023-2024 Finals<sub>Junior Division</sub></li>
+	<li>🥈 Silver medal on ACSL 2024-2025 Finals<sub>Intermediate Division</sub></li>
 	<br>
 	<!-- CCC -->
 	<li>✅ Scored 75/75 on Canadian Computing Competition 2024<sub>Junior Division</sub></li>
@@ -69,6 +69,7 @@ Yes, I speak British English. Of course I love tea. 🫖 <sub><code><i>I actuall
 	<br>
 	<!-- Korea Information Technology Promotion Agency -->
  	<li>🥇 Gold medal on 2025 4th Youth IT Competition - Algorithm Section <sub>Middle School Divison</sub>; <b>2nd place nationwide</b></li>
+	<li>🥇 Gold medal on 2025 5th Youth IT Competition - Algorithm Section <sub>Middle School Divison</sub>; <b>2nd place nationwide</b></li>
 	<br>
 	<!-- KOREA DIGITAL MEDIA HIGH SCHOOL -->
 	<li>🥈 Silver medal on 2025 21st National Middle School IT Olympiad</li>
