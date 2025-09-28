@@ -58,8 +58,8 @@
 	<li>✨ NYPC<sub>15-19</sub> 2024 특별상</li>
 	<br>
 	<!-- ACSL -->
-	<li>🥉 ACSL 2023 Finals <sub>Junior Division</sub> 동상</li>
-	<li>🥈 ACSL 2024 Finals <sub>Junior Division</sub> 은상</li>
+	<li>🥈 ACSL 2023-2024 Finals <sub>Junior Division</sub> 은상</li>
+	<li>🥈 ACSL 2024-2025 Finals <sub>Intermediate Division</sub> 은상</li>
 	<br>
 	<!-- CCC -->
 	<li>✅ Canadian Computing Competition 2024<sub>Junior Division</sub> 75/75</li>
@@ -68,6 +68,7 @@
 	<br>
 	<!-- 한국정보기술진흥원 -->
  	<li>🥇 제4회 청소년 IT경시대회 (2025) 중등부 금상; <b>전국 2위</b></li>
+	<li>🥇 제5회 청소년 IT경시대회 (2025) 중등부 금상; <b>전국 2위</b></li>
 	<br>
 	<!-- 디미고 -->
 	<li>🥈 2025 제21회 전국 중학생IT 올림피아드 은상</li>
